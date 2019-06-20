@@ -3,8 +3,8 @@ Alabama 	AL 	01 	      Sarik Goyal
 Alaska 	 	AK 	02
 Arizona 	AZ 	04
 Arkansas 	AR 	05	Mélisande
-California 	CA 	06 AB
-Colorado 	CO 	08
+California 	CA 	06
+Colorado 	CO 	08      Susy
 Connecticut 	CT 	09      Cleveland Waddell
 Delaware 	DE 	10
 Florida 	FL 	12
