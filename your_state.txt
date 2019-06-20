@@ -23,7 +23,7 @@ Massachusetts 	MA 	25
 Michigan 	MI 	26
 Minnesota 	MN 	27
 Mississippi 	MS 	28
-Missouri 	MO 	29
+Missouri 	MO 	29	Chris Gernon
 Montana 	MT 	30
 Nebraska 	NE 	31
 Nevada 	 	NV 	32
