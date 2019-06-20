@@ -5,7 +5,7 @@ Arizona 	AZ 	04
 Arkansas 	AR 	05	Mélisande
 California 	CA 	06
 Colorado 	CO 	08
-Connecticut 	CT 	09
+Connecticut 	CT 	09      Cleveland Waddell
 Delaware 	DE 	10
 Florida 	FL 	12
 Georgia 	GA 	13
