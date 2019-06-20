@@ -3,7 +3,7 @@ Alabama 	AL 	01
 Alaska 	 	AK 	02
 Arizona 	AZ 	04
 Arkansas 	AR 	05
-California 	CA 	06
+California 	CA 	06 AB
 Colorado 	CO 	08
 Connecticut 	CT 	09
 Delaware 	DE 	10
@@ -48,4 +48,4 @@ Virginia 	VA 	51
 Washington 	WA 	53
 West Virginia 	WV 	54
 Wisconsin 	WI 	55
-Wyoming 	WY 	56
+Wyoming 	WY 	56  
