@@ -21,7 +21,7 @@ Maine 	 	ME 	23
 Maryland 	MD 	24
 Massachusetts 	MA 	25
 Michigan 	MI 	26
-Minnesota 	MN 	27
+Minnesota 	MN 	27     Brandon Kolstoe
 Mississippi 	MS 	28
 Missouri 	MO 	29
 Montana 	MT 	30
