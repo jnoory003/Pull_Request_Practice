@@ -37,7 +37,7 @@ Ohio 	 	OH 	39
 Oklahoma 	OK 	40
 Oregon 	 	OR 	41
 Pennsylvania 	PA 	42
-Rhode Island 	RI 	44
+Rhode Island 	RI 	44	Tara Abrishami
 South Carolina 	SC 	45
 South Dakota 	SD 	46
 Tennessee 	TN 	47
