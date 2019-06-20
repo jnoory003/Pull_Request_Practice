@@ -26,7 +26,7 @@ Mississippi 	MS 	28	Ari Goldbloom-Helzner
 Missouri 	MO 	29	Chris Gernon
 Montana 	MT 	30      Jane Hood
 Nebraska 	NE 	31
-Nevada 	 	NV 	32
+Nevada 	 	NV 	32      Gabe Schoenbach
 New Hampshire 	NH 	33
 New Jersey 	NJ 	34
 New Mexico 	NM 	35	Brian Morris
