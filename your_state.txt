@@ -21,9 +21,9 @@ Maine 	 	ME 	23
 Maryland 	MD 	24	Kai 
 Massachusetts 	MA 	25
 Michigan 	MI 	26
-Minnesota 	MN 	27     Brandon Kolstoe
+Minnesota 	MN 	27    Brandon Kolstoe
 Mississippi 	MS 	28	Ari Goldbloom-Helzner
-Missouri 	MO 	29
+Missouri 	MO 	29	Chris Gernon
 Montana 	MT 	30      Jane Hood
 Nebraska 	NE 	31
 Nevada 	 	NV 	32
