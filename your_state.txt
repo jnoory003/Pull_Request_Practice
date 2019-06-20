@@ -1,4 +1,4 @@
-State 	Postal  	FIPS 	Name
+﻿State 	Postal  	FIPS 	Name
 Alabama 	AL 	01 	
 Alaska 	 	AK 	02
 Arizona 	AZ 	04
@@ -29,7 +29,7 @@ Nebraska 	NE 	31
 Nevada 	 	NV 	32
 New Hampshire 	NH 	33
 New Jersey 	NJ 	34
-New Mexico 	NM 	35
+New Mexico 	NM 	35	Brian Morris
 New York 	NY 	36
 North Carolina 	NC 	37
 North Dakota 	ND 	38      Parker Rule
