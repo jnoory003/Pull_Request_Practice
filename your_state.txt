@@ -4,7 +4,7 @@ Alaska 	 	AK 	02
 Arizona 	AZ 	04
 Arkansas 	AR 	05	Mélisande
 California 	CA 	06
-Colorado 	CO 	08
+Colorado 	CO 	08      Susy
 Connecticut 	CT 	09
 Delaware 	DE 	10
 Florida 	FL 	12
