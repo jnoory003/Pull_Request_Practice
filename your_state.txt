@@ -15,7 +15,7 @@ Illinois 	IL 	17
 Indiana 	IN 	18
 Iowa 	 	IA 	19
 Kansas 	 	KS 	20
-Kentucky 	KY 	21
+Kentucky 	KY 	21  Michelle
 Louisiana 	LA 	22	Eric Stucky
 Maine 	 	ME 	23
 Maryland 	MD 	24	Kai 
