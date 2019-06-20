@@ -25,7 +25,7 @@ Minnesota 	MN 	27
 Mississippi 	MS 	28
 Missouri 	MO 	29
 Montana 	MT 	30
-Nebraska 	NE 	31
+Nebraska 	NE 	31      Natasha
 Nevada 	 	NV 	32
 New Hampshire 	NH 	33
 New Jersey 	NJ 	34
