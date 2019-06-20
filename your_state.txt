@@ -47,5 +47,5 @@ Vermont 	VT 	50
 Virginia 	VA 	51
 Washington 	WA 	53
 West Virginia 	WV 	54
-Wisconsin 	WI 	55
+Wisconsin 	WI 	55	Sonali Durham
 Wyoming 	WY 	56
