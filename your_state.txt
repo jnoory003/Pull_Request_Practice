@@ -26,7 +26,7 @@ Mississippi 	MS 	28	Ari Goldbloom-Helzner
 Missouri 	MO 	29
 Montana 	MT 	30
 Nebraska 	NE 	31
-Nevada 	 	NV 	32
+Nevada 	 	NV 	32      Gabe Schoenbach
 New Hampshire 	NH 	33
 New Jersey 	NJ 	34
 New Mexico 	NM 	35
