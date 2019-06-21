@@ -14,9 +14,9 @@ Idaho 	 	ID 	16      Si Floris Wu
 Illinois 	IL 	17
 Indiana 	IN 	18
 Iowa 	 	IA 	19
-Kansas 	 	KS 	20
-Kentucky 	KY 	21  Michelle
-Louisiana 	LA 	22	Eric Stucky
+Kansas 	 	KS 	20	Jasmine Noory
+Kentucky 	KY 	21 Michelle
+Louisiana 	LA 	22 Eric Stucky
 Maine 	 	ME 	23
 Maryland 	MD 	24	Kai 
 Massachusetts 	MA 	25
