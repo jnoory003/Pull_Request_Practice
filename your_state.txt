@@ -14,7 +14,7 @@ Idaho 	 	ID 	16
 Illinois 	IL 	17
 Indiana 	IN 	18
 Iowa 	 	IA 	19
-Kansas 	 	KS 	20
+Kansas 	 	KS 	20	Jasmine Noory
 Kentucky 	KY 	21
 Louisiana 	LA 	22
 Maine 	 	ME 	23
